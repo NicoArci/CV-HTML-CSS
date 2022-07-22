@@ -49,7 +49,7 @@ p{
 .top-container {
   background-color: #5585B5;
   position: relative;
-  padding-top: 100px;
+  padding-top: 100px 0 0;
 }
 
 .middle-container {
