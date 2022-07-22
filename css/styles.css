@@ -49,12 +49,12 @@ p{
 .top-container {
   background-color: #5585B5;
   position: relative;
-  padding-top: 100px 0 0;
+  padding-top: 100px;
 }
 
 .middle-container {
   background-color: #53A8B6;
-  margin: 100px 0 0;
+  margin: 100px 0;
 }
 
 .bottom-container {
